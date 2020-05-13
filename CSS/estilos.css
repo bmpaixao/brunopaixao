@@ -1,0 +1,33 @@
+/* Aula inicial :D */
+BODY{
+  BACKGROUND-IMAGE:URL('http://www.wallpapermaiden.com/wallpaper/11233/download/2560x1700/anime-sky-anime-landscape-clouds.jpg');
+  background-size: 1265px 670px;
+  height: 100vh;
+}
+ .menu {
+    background-color: transparent;
+}
+.menu li {
+  list-style: none;
+}
+.menu ul {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Comic Sans MS";
+}
+a {
+  color: whitesmoke;
+  text-decorantion: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.site-subtitle,
+.site-title {
+  color: whitesmoke;
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+.site-subtitle {
+  color: whitesmoke;
+}
